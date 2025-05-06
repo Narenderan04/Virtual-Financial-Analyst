@@ -6,7 +6,7 @@ import requests
 st.title("Virtual Financial Analyst (VFA)")
 
 # Input: API Key and Stock Symbol
-api_key = st.text_input("Enter your Alpha Vantage API Key:")
+api_key = st.text_input("Enter your Alpha Vantage API Key:G0C0K64NYIMJX9ZQ")
 stock_symbol = st.text_input("Enter Stock Symbol (e.g., AAPL, MSFT):")
 
 # Fetch Data Button
